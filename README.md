@@ -7,7 +7,7 @@
 [license-shield]: https://img.shields.io/github/license/hassan7303/save-data.svg?style=for-the-badge
 [license-url]: https://github.com/hassan7303/save-data/blob/master/LICENCE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/hassanaliaskari
+[linkedin-url]: https://www.linkedin.com/in/hassan-ali-askari-280bb530a/
 [telegram-shield]: https://img.shields.io/badge/-Telegram-blue.svg?style=for-the-badge&logo=telegram&colorB=555
 [telegram-url]: https://t.me/hassan7303
 [instagram-shield]: https://img.shields.io/badge/-Instagram-red.svg?style=for-the-badge&logo=instagram&colorB=555
